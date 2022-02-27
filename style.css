@@ -1,3 +1,8 @@
+.others {
+  display: none;
+}
+
+
 body {
   background-color: lightblue;
 }
@@ -37,6 +42,7 @@ hr {
   font-family: helvetica;
   
 }
+
 
 .slideshow {
   max-width: 600px;
@@ -87,6 +93,3 @@ hr {
   top: 0;
 }
 
-
-  to {opacity: 1}
-}
