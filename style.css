@@ -12,9 +12,15 @@ h1 {
 }
 .footer{
   text-align: right;
+  margin-bottom: 80px;
 }
 
-
+hr {
+  height:5px;
+  width:850px;
+  border-width:0;
+  background-color:black;
+}
 .info {
     margin: 10px, auto;
     width: 850px;
